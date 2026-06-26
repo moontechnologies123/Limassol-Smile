@@ -1,0 +1,6 @@
+{
+  "name": "Limassol Smile Studio",
+  "description": "The premier full-stack dentist website in Limassol, Cyprus, featuring dental treatment pricing guides, real-time online appointment scheduling, a doctor administration panel, and a smart, empathetic AI Dental Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
